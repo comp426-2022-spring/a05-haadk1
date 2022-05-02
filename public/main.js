@@ -1,7 +1,7 @@
 
-//heads or tails
+//heads or tails 
 const coinElement = document.getElementById("coin")
-// listener to coin
+// eventlistener for coin
 coinElement.addEventListener("click", flipCoin)
 // asynchronous function for coin flip
 async function flipCoin() {
