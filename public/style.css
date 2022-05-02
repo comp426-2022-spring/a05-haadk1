@@ -1,9 +1,12 @@
 div.hidden {
   display: none;
+  text-align: center;
+  text-decoration: underline;
 }
 
 div.active {
-  border: 5px solid red;
+  border: 6px solid blue;
+  width: 110px;
 }
 
 img.bigcoin {
@@ -12,4 +15,5 @@ img.bigcoin {
 
 img.smallcoin {
   width: 50px;
+  
 }
